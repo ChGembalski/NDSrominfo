@@ -1,0 +1,3 @@
+default: all
+
+all: ndsrominfo
